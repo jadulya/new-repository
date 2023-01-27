@@ -135,4 +135,128 @@ body{
     top: 563px; 
   }
 
-  
+  .certificates{
+    position: absolute;
+    width: 614px;
+    height: 309px;
+    left: 411px;
+    top: 673px;
+    background: #FFFFFF;
+    border-radius: 3px;
+  }
+
+  .certificates h1{
+    position: absolute;
+    width: 162px;
+    height: 22px;
+    left: 245px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  #html_css{
+    position: absolute;
+    width: 279px;
+    height: 191px;
+    left: 18px;
+    top: 85px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 3px;
+  }
+
+  #future_cert{
+    position: absolute;
+    width: 279px;
+    height: 191px;
+    left: 318px;
+    top: 85px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 3px;
+  }
+
+  .job{
+    position: absolute;
+    width: 614px;
+    height: 429px;
+    left: 413px;
+    top: 1026px;
+    background: #FFFFFF;
+    border-radius: 3px;
+  }
+
+  .job h1{
+    position: absolute;
+    width: 164px;
+    height: 22px;
+    left: 235px;
+    top: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  table {
+    position: absolute;
+    width: 529px;
+    height: 315px;
+    left: 43px;
+    top: 80px;
+    background: #E5E5E5;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  .job hr{
+    position: absolute;
+    width: 614px;
+    height: 3px;
+    top: 460px;
+    background: #000000;
+  }
+
+  .contacts h1{
+    position: absolute;
+    width: 170px;
+    height: 22px;
+    left: 637px;
+    top: 1519px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  #phone{
+    position: absolute;
+    width: 194px;
+    height: 17px;
+    top: 1572px;
+    left: 447px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  #tg{
+    position: absolute;
+    width: 180px;
+    height: 17px;
+    left: 676px;
+    top: 1572px;    
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  #github{
+    position: absolute;
+    width: 124px;
+    height: 217px;
+    left: 857px;
+    top: 1572px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+  }
