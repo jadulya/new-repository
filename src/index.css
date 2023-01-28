@@ -260,3 +260,44 @@ body{
     font-size: 14px;
     line-height: 17px;
   }
+
+  .mem iframe{
+    position: absolute;
+    width: 701px; 
+    height: 682px; 
+    left: 360px; 
+    top: 1750px;
+  }
+
+  .mem h1{
+    position: absolute;
+    width: 701px; 
+    height: 682px; 
+    left: 500px; 
+    top: 1680px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .wish_me h1{
+    position: absolute;
+    width: 701px; 
+    height: 682px; 
+    left: 600px; 
+    top: 2480px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 22px;
+  }
+
+  .wish_me form{
+    position: absolute;
+    width: 701px; 
+    height: 682px; 
+    left: 500px; 
+    top: 2550px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+  }
