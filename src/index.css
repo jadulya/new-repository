@@ -228,7 +228,7 @@ body{
     line-height: 22px;
   }
 
-  #phone{
+  [name="phone"]{
     position: absolute;
     width: 194px;
     height: 17px;
@@ -239,7 +239,7 @@ body{
     line-height: 17px;
   }
 
-  #tg{
+  [name="tg"]{
     position: absolute;
     width: 180px;
     height: 17px;
@@ -250,7 +250,7 @@ body{
     line-height: 17px;
   }
 
-  #github{
+  [name="github"]{
     position: absolute;
     width: 124px;
     height: 217px;
